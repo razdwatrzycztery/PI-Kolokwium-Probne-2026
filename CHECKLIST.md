@@ -10,3 +10,5 @@
 - [ ] Mam co najmniej dwa **własne** commity.
 - [ ] `git push` się udał, a GitHub pokazuje rozwiązanie.
 - [ ] Przekazałem prowadzącemu URL forka.
+nowa linijka
+
